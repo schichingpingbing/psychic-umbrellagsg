@@ -1,0 +1,3 @@
+C:\Users\Ahmed\Desktop\BlitzedGrabber-2.0\BlitzedGrabber\obj\Release\BlitzedGrabber.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\BlitzedGrabber-2.0\BlitzedGrabber\obj\Release\BlitzedGrabber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed\Desktop\BlitzedGrabber-2.0\BlitzedGrabber\obj\Release\BlitzedGrabber.csproj.CoreCompileInputs.cache
